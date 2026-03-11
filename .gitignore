@@ -1,0 +1,43 @@
+# ASDF/Lisp compiled files
+*.fasl
+*.fas
+*.lib
+*.o
+*.obj
+*.dx64fsl
+*.dx32fsl
+*.lx64fsl
+*.lx32fsl
+*.x86f
+*.sparcf
+*.pfsl
+*.dfsl
+*.p64fsl
+*.d64fsl
+*.abcl
+
+# ASDF cache
+~/.cache/common-lisp/
+
+# Editor backups
+*~
+\#*\#
+.\#*
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build artifacts
+build/
+dist/
+
+# Local configuration
+local.lisp

@@ -1,0 +1,11 @@
+CL-FORK-CHOICE
+Copyright (c) 2024 CLPIC Contributors
+
+This software was extracted from the CLPIC (Common Lisp P2P Intellectual
+Property Chain) project and made available as a standalone library.
+
+This product includes software developed by the CLPIC project contributors.
+
+Third-Party Acknowledgments:
+- The LMD-GHOST algorithm is based on research from the Ethereum Foundation
+- Fork choice rule concepts derive from blockchain consensus literature
