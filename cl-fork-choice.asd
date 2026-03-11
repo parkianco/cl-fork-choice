@@ -3,7 +3,7 @@
 
 (asdf:defsystem #:cl-fork-choice
   :description "LMD-GHOST fork choice rule implementation for blockchain consensus"
-  :author "CLPIC Project"
+  :author "Parkian Company LLC"
   :license "BSD-3-Clause"
   :version "1.0.0"
   :serial t
